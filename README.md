@@ -1,4 +1,4 @@
-# **VIRTUAL CHECK**
+# **🔌 VIRTUAL CHECK**
 **Virtual Check is a Python script permiting you to check if the user is running your program in an Oracle virtual machine.**<br>
 **I made it because I nedeed it, and all methods people shared on forums is not working at all, please leave a star.**<br>
 ```
