@@ -7,6 +7,6 @@ except:
 # It will check if user is using an Oracle virtual machine.
 def virtual_check():
     if wmi.WMI().Win32_ComputerSystem()[0].Manufacturer == "innotek GmbH":
-    return True
-else:
-    return False
+        return True
+    else:
+        return False
